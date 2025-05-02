@@ -1,1 +1,2 @@
-ethernaut challenges(ethernaut.openzeppelin.com) solutions
+Ethernaut challenges solutions and explanations
+ethernaut.openzeppelin.com
